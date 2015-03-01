@@ -1,3 +1,1 @@
-<h1>Net-Centric Computing</h1>
-
-<p>Networking class</p>
+<h1>Net-Centric Computing (CNT-4713)</h1>
