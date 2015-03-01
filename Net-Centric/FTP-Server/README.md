@@ -2,6 +2,8 @@
 
 <p>Java program that acts as an FTP server. It is compatible with the Windows built-in FTP client.</p>
 
+<p>Note, multiple clients can be handled simultaneously.</p>
+
 <p>Only the following functions were implemented:</p>
 <ul>
 <li><b>user</b> and <b>password</b> - Allows the client to login if the provided 'user' and 'password' are the same String, and set the current working directory of the client as the root directory.</li>
