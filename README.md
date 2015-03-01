@@ -1,6 +1,6 @@
 <h1>Programming-Assignments</h1>
 
-<p>This is a collection of all programming projects completed at Florida International University, for the following courses:</p>
+<p>This is a collection of all programming projects completed at Florida International University (FIU), for the following courses:</p>
 
 <ul>
 <li>COP2210 - Programming I <i>(Java)</i></li>
