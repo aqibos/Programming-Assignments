@@ -8,5 +8,5 @@
 <li>CNT4731 - Net-Centric Computing <i>(Java)</i></li>
 </ul>
 
-<p>Note, Programming III will available shortly.</p>
+<p>Note, Programming III will be available shortly.</p>
 
