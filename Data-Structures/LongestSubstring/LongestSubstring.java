@@ -170,7 +170,7 @@ class TheString implements Comparable<TheString>
 //-----------------------------------------------------------------------------
 
 
-public class asg1
+public class LongestSubstring
 {
     private static int fileOneSize = 0 ;
     //stores where end of one file and beginning of second file occurs 
