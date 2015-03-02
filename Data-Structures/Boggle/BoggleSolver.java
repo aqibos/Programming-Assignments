@@ -551,7 +551,7 @@ class DictionaryException extends Exception
  *  Driver class for Boggle class.
  * @author Aqib Shah
  */
-public class asg2 
+public class BoggleSolver
 {
     public static void main( String [] args )
     {
